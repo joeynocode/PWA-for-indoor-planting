@@ -1,0 +1,22 @@
+{
+    "123@cornell.edu":{
+        "userName":"John Doe",
+        "id": 123456,
+        "pwd":"111111"
+    },
+    "456@cornell.edu":{
+        "userName":"Annabel Gates",
+        "id": 234567,
+        "pwd":"111111"
+    },
+    "789@cornell.edu":{
+        "userName":"Michael Hsu",
+        "id": 345678,
+        "pwd":"111111"
+    },
+    "abc@cornell.edu":{
+        "userName":"Sara Smiths",
+        "id": 456789,
+        "pwd":"111111"
+    }
+}

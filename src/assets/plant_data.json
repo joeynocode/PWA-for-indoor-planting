@@ -1,0 +1,344 @@
+{
+    "fruits": {
+        "tomato": {
+            "about": "Tomatoes are a good source of vitamin C and potassium.",
+            "difficulty": "Medium",
+            "type": "fruits",
+            "basic": {
+                "soil type": "tomatoes grow best in sandy soil",
+                "watering frequency": "water tomatoes every day",
+                "suitable weather": "tomatoes grow best in warm weather",
+                "light": "tomatoes grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "Tomatoes run on warmth; plant in late spring and early summer except in zone 10, where they are a fall and winter crop. For a head start on growing, plant starter plants instead of seeds. Devote a prime, sunny spot to growing tomatoes. Tomatoes need at least 6 to 8 hours of sun to bring out their best flavors.You will need to stake, trellis, or cage most tomato plants to keep them off the ground. Decide on a support plan before you set out your plants, then add that support directly after planting.",
+                "how to harvest": "Whether you should pick tomatoes before they turn red is largely down to personal choice. You can harvest tomatoes as soon as they start turning red (or yellow or purple) and then allow them to ripen on the vine in the kitchen; however it is perfectly okay to leave your tomatoes on the plant to ripen until you are ready to harvest them. If, though, bad weather is forecast or tomatoes are splitting, it's a good idea to get them picked before they become inedible or damaged.",
+                "how to store": "Here's the takeaway: If you have a cool spot in your home, like a wine cellar or root cellar, with temperatures in the 55° F to 70° F range, store fully ripe tomatoes there. They’ll keep well for a day or two, and you won’t risk disrupting any flavor-producing enzyme activity. If, like us, you don’t have a wide variety of temperature zones in your home, rest assured that fully ripe tomatoes will survive refrigeration, just plan for some room temperature recovery time."
+            }
+        },
+        "cucumber": {
+            "about": "Cucumbers are a good source of vitamin C and potassium.",
+            "difficulty": "Easy",
+            "type": "fruits",
+            "basic": {
+                "soil type": "cucumbers grow best in sandy soil",
+                "watering frequency": "water cucumbers every day",
+                "suitable weather": "cucumbers grow best in warm weather",
+                "light": "cucumbers grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "Space cucumbers 36 to 60 inches apart (12 inches apart for trellised plants) in an area with abundant sun and fertile, well-drained soil with a pH of 6.0 to 6.8. Improve native soil by mixing in several inches of aged compost or other rich organic matter. Cucumbers will grow quickly with little care. Be sure they receive an inch of water every week. Make the most of your food growing efforts by regularly feeding plants with a water-soluble plant food.",
+                "how to harvest": "Harvest cucumbers when they attain at least six to eight inches in length. Keep a watchful eye out for dark green skins and firm fruits. It is best to harvest these beauties on the earlier side to reap the rewards of their sweet flesh and tender seeds. They will grow bigger and can still be eaten when harvested later. However, seeds will be prevalent and pronounced, and the cucumber may have a more bitter taste than their younger counterparts. Cucumbers are not one of those vegetables that ripen when cutting early from the vine.<br/>Plan to pick cucumbers early in the morning when the plant vines are cool and damp with dew. When harvesting cucumbers, use a sharp knife or clippers to separate them from the vine. Twisting the stems can cause tearing of the vines and cause subsequent damage to the plant. Remember that you will likely be harvesting a couple of cucumbers per day, so monitor your crop of cucumbers closely. Leaving your harvest on the vine too long will prematurely mature your plant, and it will slow its production of cucumbers.",
+                "how to store": "Wrap the whole cucumber in plastic wrap and then store it in an airtight container. The plastic wrap acts as a shield and locks in moisture, which prevents the cukes from ripening and becoming mushy. After trying this method, you'll be pleasantly surprised to see that your cucumbers are still crispy and crunchy up to a week later."
+            }
+        },
+        "grape": {
+            "about": "Grapes are a good source of vitamin C and potassium.",
+            "difficulty": "Hard",
+            "type": "fruits",
+            "basic": {
+                "soil type": "grapes grow best in sandy soil",
+                "watering frequency": "water grapes every day",
+                "suitable weather": "grapes grow best in warm weather",
+                "light": "grapes grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "Young grapes require about 1/2 to 1 inch of water per week, depending on rainfall, for the first two years during the growing season. When watering young vines, saturate the root zone. Apply 5 gallons of water over a 3 x 3 foot area for 1 inch of water. Plants grown in pots require regular watering until the roots become established and the leaves have acclimated to growing outdoors. It's worthwhile to monitor these plants daily to make sure they do not suffer drought stress. By the end of the second growing season, a trunk should be established and your vine is likely to not need additional watering unless specific soil conditions (sandy, well drained) or prolonged drought dictate the need. Apply water only to the root zone. Avoid getting grape foliage wet as this can encourage many grape diseases. Reduce watering young vines in the fall to encourage the plant to harden-off its canes to prepare for winter. Older vines seldom need any watering unless on sandy or other very well drained soils.",
+                "how to harvest": "Clip full clusters off the vine with pruning shears or heavy scissors. Handle clusters carefully. Remove any discolored, injured, or undesirable berries. Cool them as soon as they are picked.",
+                "how to store": "Store grapes in a refrigerator in a steady, consistent temperature. Cover grape clusters loosely with plastic to reduce moisture loss. Most grapes can be stored in the refrigerator for up to a week or two."
+            }
+        },
+        "lemon": {
+            "about": "Lemons are a good source of vitamin C and potassium.",
+            "difficulty": "Medium",
+            "type": "fruits",
+            "basic": {
+                "soil type": "lemons grow best in sandy soil",
+                "watering frequency": "water lemons every day",
+                "suitable weather": "lemons grow best in warm weather",
+                "light": "lemons grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "Lemons are more cold-sensitive than all other citrus trees. Due to this cold sensitivity, lemon trees should be planted near the south side of the home. Lemon trees need protection from frost. Growing them near the house should help with this. Lemon trees also require full sunlight for adequate growth. While lemon trees can tolerate a range of soils, including poor soil, most prefer well-drained, slightly acidic soil. Lemon trees should be set slightly higher than ground. Therefore, dig a hole somewhat shallower than the length of the root ball. Place the tree in the hole and replace soil, tamping firmly as you go. Water sufficiently and add some mulch to help retain moisture. Lemon trees require deep watering once weekly. If necessary, pruning may be done to maintain their shape and height.",
+                "how to harvest": "When lemons appear yellow or yellowish-green, are firm in appearance, and have reached two to three inches in size, they're ready to pluck. Lemons prefer to ripen on the tree, so if you pick them too soon you may be out of luck. Ripe lemons have a glossy skin and are not ripe until the color truly develops. If the skin is wrinkled, dull or squishy, you're too late. It's better to pick a lemon too early than to wait too long. Because lemons may go through a green-colored phase, some people have a hard time discerning lemons vs limes. We'll save that distinction for another time!",
+                "how to store": "It can be tempting to store lemons in a pretty bowl on your countertop or kitchen table but avoid the urge to decorate with fresh fruit. Left at room temp, lemons will dry out leaving you with less juice and a tough rind. Lemons are best kept in the fridge—period. Stashed in the fridge in the crisper drawer or on a shelf, fresh lemons will keep for two weeks or more. If you really want your lemons to last, pop them in a sealed container (there are even specialty produce keepers for this purpose) or a zip-top bag. This extra step will prevent lemons from drying out and keep them fresh for a month."
+            }
+        },
+        "blueberry": {
+            "about": "blueberries are a good source of vitamin C and potassium.",
+            "difficulty": "Medium",
+            "type": "fruits",
+            "basic": {
+                "soil type": "blueberries grow best in sandy soil",
+                "watering frequency": "water blueberries every day",
+                "suitable weather": "blueberries grow best in warm weather",
+                "light": "blueberries grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "blueberries run on warmth; plant in late spring and early summer except in zone 10, where they are a fall and winter crop. For a head start on growing, plant starter plants instead of seeds. Devote a prime, sunny spot to growing blueberries. blueberries need at least 6 to 8 hours of sun to bring out their best flavors.You will need to stake, trellis, or cage most tomato plants to keep them off the ground. Decide on a support plan before you set out your plants, then add that support directly after planting.",
+                "how to harvest": "Whether you should pick blueberries before they turn red is largely down to personal choice. You can harvest blueberries as soon as they start turning red (or yellow or purple) and then allow them to ripen on the vine in the kitchen; however it is perfectly okay to leave your blueberries on the plant to ripen until you are ready to harvest them. If, though, bad weather is forecast or blueberries are splitting, it's a good idea to get them picked before they become inedible or damaged.",
+                "how to store": "Here's the takeaway: If you have a cool spot in your home, like a wine cellar or root cellar, with temperatures in the 55° F to 70° F range, store fully ripe blueberries there. They’ll keep well for a day or two, and you won’t risk disrupting any flavor-producing enzyme activity. If, like us, you don’t have a wide variety of temperature zones in your home, rest assured that fully ripe blueberries will survive refrigeration, just plan for some room temperature recovery time."
+            }
+        },
+        "apple": {
+            "about": "apples are a good source of vitamin C and potassium.",
+            "difficulty": "Hard",
+            "type": "fruits",
+            "basic": {
+                "soil type": "apples grow best in sandy soil",
+                "watering frequency": "water apples every day",
+                "suitable weather": "apples grow best in warm weather",
+                "light": "apples grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "apples run on warmth; plant in late spring and early summer except in zone 10, where they are a fall and winter crop. For a head start on growing, plant starter plants instead of seeds. Devote a prime, sunny spot to growing apples. apples need at least 6 to 8 hours of sun to bring out their best flavors.You will need to stake, trellis, or cage most tomato plants to keep them off the ground. Decide on a support plan before you set out your plants, then add that support directly after planting.",
+                "how to harvest": "Whether you should pick apples before they turn red is largely down to personal choice. You can harvest apples as soon as they start turning red (or yellow or purple) and then allow them to ripen on the vine in the kitchen; however it is perfectly okay to leave your apples on the plant to ripen until you are ready to harvest them. If, though, bad weather is forecast or apples are splitting, it's a good idea to get them picked before they become inedible or damaged.",
+                "how to store": "Here's the takeaway: If you have a cool spot in your home, like a wine cellar or root cellar, with temperatures in the 55° F to 70° F range, store fully ripe apples there. They’ll keep well for a day or two, and you won’t risk disrupting any flavor-producing enzyme activity. If, like us, you don’t have a wide variety of temperature zones in your home, rest assured that fully ripe apples will survive refrigeration, just plan for some room temperature recovery time."
+            }
+        },
+        "pineapple": {
+            "about": "pineapples are a good source of vitamin C and potassium.",
+            "difficulty": "Hard",
+            "type": "fruits",
+            "basic": {
+                "soil type": "pineapples grow best in sandy soil",
+                "watering frequency": "water pineapples every day",
+                "suitable weather": "pineapples grow best in warm weather",
+                "light": "pineapples grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "pineapples run on warmth; plant in late spring and early summer except in zone 10, where they are a fall and winter crop. For a head start on growing, plant starter plants instead of seeds. Devote a prime, sunny spot to growing pineapples. pineapples need at least 6 to 8 hours of sun to bring out their best flavors.You will need to stake, trellis, or cage most tomato plants to keep them off the ground. Decide on a support plan before you set out your plants, then add that support directly after planting.",
+                "how to harvest": "Whether you should pick pineapples before they turn red is largely down to personal choice. You can harvest pineapples as soon as they start turning red (or yellow or purple) and then allow them to ripen on the vine in the kitchen; however it is perfectly okay to leave your pineapples on the plant to ripen until you are ready to harvest them. If, though, bad weather is forecast or pineapples are splitting, it's a good idea to get them picked before they become inedible or damaged.",
+                "how to store": "Here's the takeaway: If you have a cool spot in your home, like a wine cellar or root cellar, with temperatures in the 55° F to 70° F range, store fully ripe pineapples there. They’ll keep well for a day or two, and you won’t risk disrupting any flavor-producing enzyme activity. If, like us, you don’t have a wide variety of temperature zones in your home, rest assured that fully ripe pineapples will survive refrigeration, just plan for some room temperature recovery time."
+            }
+        },
+        "strawberry": {
+            "about": "strawberries are a good source of vitamin C and potassium.",
+            "difficulty": "Hard",
+            "type": "fruits",
+            "basic": {
+                "soil type": "a deep, sandy loam soil rich in organic matter",
+                "watering frequency": "need water equal to 1 to 1.5 inches of rain each week",
+                "suitable weather": "temperatures between 50°F–80°F",
+                "light": "less than 14 hours of daylight"
+            },
+            "how-to": {
+                "how to grow": "Plant strawberries in spring or fall based on your growing zone. In-ground gardens, raised beds, and containers are all excellent growing areas. Give strawberries room for runners by planting them 18 inches apart. Strawberries can be grown in a variety of ways, but make sure they get 8 or more hours of sun and are planted in slightly acidic soil with a pH of 5.5 to 6.8. Give your native soil a boost by mixing in several inches of aged compost or other rich organic matter. Consider a premium bagged potting mix for growing in containers. Give plants 1 to 1.5 inches of water weekly, and avoid wetting the leaves. Promote excellent fruit production by keeping plants fed with a continuous-release fertilizer.",
+                "how to harvest": "Fruit is typically ready for harvesting 4-6 weeks after blossoming. Harvest only fully red (ripe) berries, and pick every three days. Cut by the stem; do not pull the berry or you could damage the plant. For June-bearer strawberries, the harvest will last up to 3 weeks. You should have an abundance of berries, depending on the variety.",
+                "how to store": "Strawberries will stay fresh for three days in refrigeration but after that, they go downhill fast. If your strawberry harvest yielded you more berries than you can eat or give away, don’t despair, you can salvage the harvest."
+            }
+        },
+        "orange": {
+            "about": "oranges are a good source of vitamin C and potassium.",
+            "difficulty": "Medium",
+            "type": "fruits",
+            "basic": {
+                "soil type": "oranges grow best in sandy soil",
+                "watering frequency": "water oranges every day",
+                "suitable weather": "oranges grow best in warm weather",
+                "light": "oranges grow best in full sun"
+            },
+            "how-to": {
+                "how to grow": "oranges run on warmth; plant in late spring and early summer except in zone 10, where they are a fall and winter crop. For a head start on growing, plant starter plants instead of seeds. Devote a prime, sunny spot to growing oranges. oranges need at least 6 to 8 hours of sun to bring out their best flavors.You will need to stake, trellis, or cage most tomato plants to keep them off the ground. Decide on a support plan before you set out your plants, then add that support directly after planting.",
+                "how to harvest": "Whether you should pick oranges before they turn red is largely down to personal choice. You can harvest oranges as soon as they start turning red (or yellow or purple) and then allow them to ripen on the vine in the kitchen; however it is perfectly okay to leave your oranges on the plant to ripen until you are ready to harvest them. If, though, bad weather is forecast or oranges are splitting, it's a good idea to get them picked before they become inedible or damaged.",
+                "how to store": "Here's the takeaway: If you have a cool spot in your home, like a wine cellar or root cellar, with temperatures in the 55° F to 70° F range, store fully ripe oranges there. They’ll keep well for a day or two, and you won’t risk disrupting any flavor-producing enzyme activity. If, like us, you don’t have a wide variety of temperature zones in your home, rest assured that fully ripe oranges will survive refrigeration, just plan for some room temperature recovery time."
+            }
+        },
+        "raspberry": {
+            "difficulty": "Easy",
+            "type": "fruits",
+            "about": "Raspberries contain manganese, calcium, and vitamin K, which play roles in bone health.",
+            "basic": {
+                "soil type": "well-drained loam or sandy-loam soil",
+                "watering frequency": "about 1-2 per week during growing seaso",
+                "suitable weather": "perform best at temperatures around 70 to 75 degrees Fahrenheit",
+                "light": " receives six to eight hours of unobstructed sunlight a day"
+            },
+            "how-to": {
+                "how to grow": "Raspberry bushes grow best in full sun (at least 6-8 hours), in rich, well-drained soil. Gardeners from zone 3 all the way to zone 10 can grow raspberries successfully, given the right variety. Read plant descriptions carefully when purchasing and select plants that will thrive in your growing zone. Raspberries are self-fertile, so you do not need to plant different varieties to cross pollinate. Because of their sprawling habit and need for sturdy support, the best place to grow raspberries is in a row at along the property line. Do not grow raspberries in the same garden bed where tomatoes, peppers, eggplants, or other nightshade plants have grown. Those plants can harbor verticillium wilt, a disease that will affect the raspberry bushes.",
+                "how to harvest": "Raspberries are easy to pull off the plant one at a time when they’re ripe. Unwashed, berries will keep in the refrigerator for 3-5 days. Once the fruits start ripening you’ll need to harvest daily.",
+                "how to store": "Store raspberries dry and in the container in which you bought them (or if they are from the garden, in a breathable container). Avoid keeping them in the coldest part of your fridge (usually in the back) or in the crisper. The best place in your fridge is where you'll see them best, thus not forgetting them."
+            }
+        }
+    },
+    "vegetables": {
+        "carrot": {
+            "difficulty": "Easy",
+            "type": "vegetables",
+            "about": "carrots are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "loose, well-drained soil that has a good mixture of clay and sand",
+                "watering frequency": "at least 1 inch of water each week",
+                "suitable weather": "between 40 degrees and 80 degrees F",
+                "light": "six or more hours of sunlight"
+            },
+            "how-to": {
+                "how to grow": "Carrots prefer sunny locations (6 to 10 hours of sun). The soil itself should be free-draining; this is one of the few crops that actively benefits from sandier soils. You don’t want your soil to be too rich either or the carrots can’t reach down! If your garden is made up of hard, clay soil, grow carrots in containers or raised beds at least 8 inches to 12 inches high. See our tips on container gardening below!",
+                "how to harvest": "Start out with soil that will help your carrots grow healthy. When you grow carrots, soil should be a sandy, well-drained loam. Heavy soils cause the carrots to mature slowly and the roots will end up unattractive and rough. Remember that when you grow carrots, rocky soil leads to poor quality roots. Carrots should be ready for harvest about 60-80 days after sowing seeds, depending on the variety. The tops of the carrot roots will be about 3/4 to 1 inch in diameter and likely starting to pop out of the soil, though not necessarily. They will also be vibrant in color. To harvest, loosen soil around the carrot with a spade or trowel before pulling up from the greens; this will help avoid breaking the greens off from the carrot roots. Carrots mature roughly around the same time, but you don’t have to harvest them all at once. Leaving them in the soil is the best preservation. If cold weather is coming, protect the carrots from freeze with extra mulch or by covering.",
+                "how to store": "The best way to store carrots for a short period of time is in a cool, dark part of your refrigerator or on the countertop for 1-3 months. If you'd like to store carrots for longer periods of time, simply blanch and then freeze them and they will keep for up to three months."
+            }
+        },
+        "spinach": {
+            "difficulty": "Easy",
+            "type": "vegetables",
+            "about": "Spinach is an extremely nutrient-rich vegetable.",
+            "basic": {
+                "soil type": "well-drained soil rich in organic matter",
+                "watering frequency": "Water frequently to keep the soil evenly moist but not soggy",
+                "suitable weather": "Optimum growing temperature is 50⁰ F to 60⁰ F",
+                "light": "four to six hours of sunlight a day"
+            },
+            "how-to": {
+                "how to grow": "Sow seeds 1/2 of an inch deep every 2 inches and cover with 1/2 inch of soil. Plant in rows 12 to 18 inches apart or sprinkle over a wide row or bed. Sow every couple of weeks during early spring for a continuous harvest. Water spinach to keep soil constantly moist. Use row covers to maintain cool soil and deter pests. When seedlings sprout to about 2 inches, thin them to 3-4 inches apart. You can eat the thinnings.",
+                "how to harvest": "Harvest a few outer leaves from each plant (so that inner leaves can develop) when leaves reach desired size, or harvest the entire plant, cutting the stem at the base. Don’t wait too long to harvest or wait for larger leaves. Bitterness will set in quickly after maturity. Be aware of day length and heat: Increasing daylight (about 14 hours or longer) and warmer seasonal temperatures can cause spinach to bolt (develop a large stalk with narrower leaves and buds/flowers/seeds), which turns leaf taste bitter. ",
+                "how to store": "Fresh spinach leaves are good up to a week. Too much moisture hastens its demise. So store fresh spinach unwashed and don’t wash until ready to use. Pat dry with a paper towel and put in a freezer bag with the towel to absorb moisture. Given its short shelf life, spinach is perfect for freezing. Wash, trim off ends and yellowing leaves, blanch, and pack into freezer bags. See how to freeze spinach."
+            }
+        },
+        "potato": {
+            "difficulty": "Easy",
+            "type": "vegetables",
+            "about": "potatoes are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "Potatoes grow best in well-drained, sandy soil",
+                "watering frequency": "need between 1-2 inches of water per week",
+                "suitable weather": "60 to 70 degrees Fahrenheit (16 to 21 degrees Celsius)",
+                "light": "need a good amount of light for 8 to 12 hours per day"
+            },
+            "how-to": {
+                "how to grow": "Plant potatoes in a sunny place with at least 6 hours of directly sunlight each day. The tubers need to grow in fertile, loose, well-drained soil; hard or compacted soil leads to misshapen tubers. Ideally, soil is slightly acid (pH 5.8 to 6.5) and the soil temperature is at least 45º to 55ºF  (7° to 13°C). Before planting (preferably in the fall), mix compost or organic matter into the soil. Learn more about compost, soil amendments, and preparing soil for planting.)",
+                "how to harvest": "Harvest “new” potatoes, small ones with tender skin, 2 to 3 weeks after plants stop flowering. Eat new potatoes within a few days (curing is not necessary); they will not keep for much longer. Harvest larger, mature potatoes 2 to 3 weeks after the foliage has died back. Cut down the brown foliage.",
+                "how to store": "Storage temperature has a significant impact on how long potatoes will last. When stored between 43–50°F (6–10°C), raw potatoes will keep for many months without spoiling (3). This temperature range is slightly warmer than refrigeration and can be found in cool cellars, basements, garages or sheds. Storing potatoes in these conditions can help delay the formation of sprouts on the skin, one of the first signs of spoilage. In fact, one study found that storing potatoes in cool temperatures more than quadrupled their shelf life, compared to storing them at room temperature (3). Storing at lower temperatures also helps preserve their vitamin C content."
+            }
+        },
+        "pepper": {
+            "difficulty": "Medium",
+            "type": "vegetables",
+            "about": "peppers are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "Peppers prefer rich, loamy soil",
+                "watering frequency": "only need to water them every 2-3 days",
+                "suitable weather": "Optimum temperatures fall between 70 degrees and 80 degrees F",
+                "light": "at least 6-8 hours of sunlight per day"
+            },
+            "how-to": {
+                "how to grow": "Set pepper plant seedlings out after the last spring frost. They grow well in raised beds, containers, and in-ground gardens. Plant them 18 to 24 inches apart in a sunny, well-drained spot. Pepper plants need at least 6-8 hours of sunlight per day. Mix compost or other organic matter into the soil when planting. Water immediately after planting, then regularly throughout the season. Aim for a total of 1-2 inches per week (more when it's hotter). Mix a continuous-release fertilizer into the soil at planting and replenish as directed during the growing season. Spread mulch (such as chopped leaves or straw) around the plants to help keep the soil cool and moist. Support each pepper plant with a stake or small tomato cage, to help bear the weight of the fruit once it begins to produce. Harvest peppers with shears or a knife, then store in the fridge. Be sure to pick all peppers before the first fall frost comes.",
+                "how to harvest": "Harvesting pepper seeds is a fairly easy process. Once the peppers have completely ripened, cut them open, and remove the seeds. After allowing the seeds to dry out for approximately one week, store them in a cool, dry location until you are ready to plant.",
+                "how to store": "Storage in the fridge might be the best option if you plan to use your bell peppers in a week or so. First, make sure your peppers are dry; excess moisture will lead to early spoilage. Place the peppers in a plastic bag, ideally with holes for air circulation, like a mesh bag. They should go in the crisper drawer, which permits airflow, with other veggies. Place cut bell peppers in an airtight container with a paper towel to absorb moisture."
+            }
+        },
+        "radish": {
+            "difficulty": "Easy",
+            "type": "vegetables",
+            "about": "potatoes are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "well-drained, slightly acidic to neutral soil with pH 6 to 7",
+                "watering frequency": "about one inch of water per week",
+                "suitable weather": "cool-season",
+                "light": "need the equivalent of 6+ hours of direct sunlight"
+            },
+            "how-to": {
+                "how to grow": "Sow radish seeds one inch apart in rows one foot apart in loosened soil. Cover them 1/2 to 1-inch deep and water them gently. Keep planting radishes every ten days for a continuous harvest. One week after the radish seedlings appear, thin them to every two or three inches. For radish seedlings like Daikons, which will form bigger, longer roots, thin to every four to six inches.",
+                "how to harvest": "There are several ways to know when to harvest radishes. Check your seed packet for the approximate number of days to maturity or pull up a couple of radish plants and sample the roots. They should be crunchy and crispy. Radishes left in the ground too long turn pithy and hot. Still not sure when to harvest radishes? Brush some soil away from the top of a couple of roots. You'll know when to harvest the radishes when the roots are about an inch in diameter at the soil's surface. When they're ready, pull up your radish plants. If the ground is hard, use a garden fork or trowel to gently loosen it.",
+                "how to store": "Cut off the radish tops and tail roots, wash and dry the radishes, and store them in plastic bags in the refrigerator. Wash, dry and store the greens separately for up to three days. You can also freeze unpeeled radishes, although freezing changes their texture. For better results, blanch them first."
+            }
+        }
+    },
+    "herbs": {
+        "scallion": {
+            "difficulty": "Hard",
+            "type": "herbs",
+            "about": "scallions are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "scallions prefer a sunny, open site and fertile, well-drained soil",
+                "watering frequency": "only need to water them every 2-3 days",
+                "suitable weather": "Optimum temperatures fall between 70 degrees and 80 degrees F",
+                "light": "at least 6-8 hours of sunlight per day"
+            },
+            "how-to": {
+                "how to grow": "These tall, thin plants don’t take up much space, so they’re ideal for containers. Or be opportunistic and grow them between rows of slower growing vegetables such as parsnips until they need the extra space. Another option is to grow them with carrots, where they may help to reduce problems with carrot rust fly.Start sowing under cover from late winter, then continue outside from spring. Sow short rows every three to four weeks to give a steady supply of oniony stems. Your last sowings, made at the very end of summer using a winter hardy variety, will be ready to harvest early next season. Sow seeds directly where they are to grow or into containers of potting soil to transplant later on.",
+                "how to harvest": "Scallions are typically harvested prior to the formation of the onion bulb. Generally, the younger the scallion, the milder the flavor. The exact time for scallion picking varies upon personal preference but is usually within about 60 days after planting.",
+                "how to store": "Wrap the scallions in a slightly damp paper towel. The dampness provides the humidity needed for proper storage; if the towel is too wet though, it can promote rotting. Place the wrapped scallions inside a plastic bag or storage container; it doesn't need to be sealed airtight."
+            }
+        },
+        "onion": {
+            "difficulty": "Medium",
+            "type": "herbs",
+            "about": "onions are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "scallions prefer a sunny, open site and fertile, well-drained soil",
+                "watering frequency": "only need to water them every 2-3 days",
+                "suitable weather": "Optimum temperatures fall between 70 degrees and 80 degrees F",
+                "light": "at least 6-8 hours of sunlight per day"
+            },
+            "how-to": {
+                "how to grow": "Plant onions in early spring once the ground is workable. In-ground gardens and raised beds are both excellent options for growing onions. Space onion plants 6 inches apart in rows that are 12 inches apart. Grow them in a sunny spot that has fertile, well-drained soil with a pH of 6.0 to 6.8. Improve your native soil by mixing in several inches of aged compost or other rich organic matter. Onions aren't great at taking up water, so it's important to keep soil moist so their shallow roots can drink up. Water whenever the top inch of soil becomes dry. For best results, keep your growing onions fed with a continuous-release plant food. Onions can be eaten at nearly any size so harvest when they're the right size for your next culinary creation.",
+                "how to harvest": "The telltale harvest sign is when the stalks turn yellowish or brown, dry out a bit, and topple over. Once you see this happen, plan for an early morning harvest when temperatures are milder. Use a pitch forth and loosen the soil around the onion stalks, then gently pull the onions up out of the ground by the stalks.",
+                "how to store": "Keep storage onions in a cool, dark, and dry place. Moisture and light lead to mold (ew) and sprouting (annoying, though not a deal-breaker), so stow your storage onions (red, yellow, and white as well as shallots and the diminutive pearl and cippoline) in a dry, well-ventilated basket, bin, or large bowl."
+            }
+        },
+        "mint": {
+            "difficulty": "Easy",
+            "type": "herbs",
+            "about": "mint are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "Mint prefers fertile soil with a pH from 6.0 to 7.0.",
+                "watering frequency": "twice a week with a thorough watering",
+                "suitable weather": "The ideal soil temperature for planting mint is 55°F-70°F.",
+                "light": "Mint prefers full sun to partial shade"
+            },
+            "how-to": {
+                "how to grow": "Plant mint in spring after the last frost. This fast-growing herb can grow just about anywhere and makes an excellent addition to indoor and outdoor gardens. Space mint plants 18 to 24 inches apart. It's best to grow them in pots to keep them from taking over your garden (even if you're planting in the ground). Give your garden a great foundation by improving native soil with several inches of aged compost or other rich organic matter. For container growing, consider a premium bagged potting mix. Keep soil consistently moist and water when the top inch becomes dry. Promote excellent leaf production by regularly feeding with a water-soluble plant food. Once plants are established, harvest mint leaves regularly by pinching off the stems.",
+                "how to harvest": "Right before flowering, cut the stems 1 inch from the ground. You can harvest one mint plant two or three times in one growing season. You can also just pick the leaves as you need them. You can grow the plants indoors for fresh leaves throughout the winter. If you want to dry them, it’s best to cut the leaves right before flowering. Store the dried leaves in an airtight container.",
+                "how to store": "Find a large canning jar with lid, or an herb saver. We’ve been using this or purchased herb saver for years and love it! But a large jar works just as well. Add a few inches water inside and add the mint. Place the cut sides of the mint into the water. Screw on the lid. This helps to keep the mint fresh. Alternatively you can also place a plastic bag over the top of the mint that’s sticking out of the jar. It should stay fresh for 3 to 5 days!"
+            }
+        },
+        "basil": {
+            "difficulty": "Easy",
+            "type": "herbs",
+            "about": "basil are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "basil prefers fertile soil with a pH from 6.0 to 7.0.",
+                "watering frequency": "twice a week with a thorough watering",
+                "suitable weather": "The ideal soil temperature for planting basil is 55°F-70°F.",
+                "light": "basil prefers full sun to partial shade"
+            },
+            "how-to": {
+                "how to grow": "Plant basil in spring after the last frost. This fast-growing herb can grow just about anywhere and makes an excellent addition to indoor and outdoor gardens. Space basil plants 18 to 24 inches apart. It's best to grow them in pots to keep them from taking over your garden (even if you're planting in the ground). Give your garden a great foundation by improving native soil with several inches of aged compost or other rich organic matter. For container growing, consider a premium bagged potting mix. Keep soil consistently moist and water when the top inch becomes dry. Promote excellent leaf production by regularly feeding with a water-soluble plant food. Once plants are established, harvest basil leaves regularly by pinching off the stems.",
+                "how to harvest": "Right before flowering, cut the stems 1 inch from the ground. You can harvest one basil plant two or three times in one growing season. You can also just pick the leaves as you need them. You can grow the plants indoors for fresh leaves throughout the winter. If you want to dry them, it’s best to cut the leaves right before flowering. Store the dried leaves in an airtight container.",
+                "how to store": "Find a large canning jar with lid, or an herb saver. We’ve been using this or purchased herb saver for years and love it! But a large jar works just as well. Add a few inches water inside and add the basil. Place the cut sides of the basil into the water. Screw on the lid. This helps to keep the basil fresh. Alternatively you can also place a plastic bag over the top of the basil that’s sticking out of the jar. It should stay fresh for 3 to 5 days!"
+            }
+        },
+        "thyme": {
+            "difficulty": "Easy",
+            "type": "herbs",
+            "about": "thyme are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "thyme prefers fertile soil with a pH from 6.0 to 7.0.",
+                "watering frequency": "twice a week with a thorough watering",
+                "suitable weather": "The ideal soil temperature for planting thyme is 55°F-70°F.",
+                "light": "thyme prefers full sun to partial shade"
+            },
+            "how-to": {
+                "how to grow": "Plant thyme in spring after the last frost. This fast-growing herb can grow just about anywhere and makes an excellent addition to indoor and outdoor gardens. Space thyme plants 18 to 24 inches apart. It's best to grow them in pots to keep them from taking over your garden (even if you're planting in the ground). Give your garden a great foundation by improving native soil with several inches of aged compost or other rich organic matter. For container growing, consider a premium bagged potting mix. Keep soil consistently moist and water when the top inch becomes dry. Promote excellent leaf production by regularly feeding with a water-soluble plant food. Once plants are established, harvest thyme leaves regularly by pinching off the stems.",
+                "how to harvest": "Right before flowering, cut the stems 1 inch from the ground. You can harvest one thyme plant two or three times in one growing season. You can also just pick the leaves as you need them. You can grow the plants indoors for fresh leaves throughout the winter. If you want to dry them, it’s best to cut the leaves right before flowering. Store the dried leaves in an airtight container.",
+                "how to store": "Find a large canning jar with lid, or an herb saver. We’ve been using this or purchased herb saver for years and love it! But a large jar works just as well. Add a few inches water inside and add the thyme. Place the cut sides of the thyme into the water. Screw on the lid. This helps to keep the thyme fresh. Alternatively you can also place a plastic bag over the top of the thyme that’s sticking out of the jar. It should stay fresh for 3 to 5 days!"
+            }
+        },
+        "parsley": {
+            "difficulty": "Easy",
+            "type": "herbs",
+            "about": "parsley are a good source of vitamin C and potassium.",
+            "basic": {
+                "soil type": "well-drained soil that is rich in organic matte",
+                "watering frequency": "needs 1 to 2 inches of rain or supplemental water per week",
+                "suitable weather": "soil should be around 70ºF (21°C)",
+                "light": "grow best in a sunny, preferably south-facing window"
+            },
+            "how-to": {
+                "how to grow": "Seeds can be planted outdoors in March or April, and again in late summer for early growth the next spring. Direct sow outdoors in early spring, or once the soil has warmed up, ideally around 70°F. As parsley is slow to germinate, often taking up to four weeks, soaking the seeds for 24 hours in lukewarm water will help to hasten sprouting. Parsley prefers soil enriched with plenty of organic material, such as compost and well-rotted manure. And a pH of 6.0-7.0 provides the best range for nutrient absorption and vitality. Sow seeds 1 inch apart at a depth of ¼ inch, and keep the soil moist for the entire growing season. Thin to 6 inches apart when the second set of true leaves has emerged.",
+                "how to harvest": "Leaves can be harvested when the stem they’re attached to has three distinct and separate segments. Cut them from the outside edges of the plant, leaving the inner growth to mature.",
+                "how to store": "Fresh parsley will last longer in the fridge if the stalks are kept in a small container of water. For long-term storage up to eight months, freezing retains the flavor better than drying – although neither method can replace the taste and texture of fresh."
+            }
+        }
+    }
+}

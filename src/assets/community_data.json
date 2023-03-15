@@ -1,0 +1,124 @@
+[
+    {
+        "authorName": "Justin Ellis",
+        "plant": "strawberry",
+        "experienceLevel": "Intermediate",
+        "difficultyLevel": "Easy",
+        "text": "My experience with growing a strawberry is ...",
+        "details": {
+            "story": "I grew a strawberry in my yard but it was not so good. We have to water it every day and it takes a long time to grow. I harvested it after 3 months and it was not tasty at all. We suspect it has to do with the fact that we forgot to use fertilizer. We will consider trying again next year.",
+            "tips": [
+                "Water it regularly and often",
+                "Use a good soil",
+                "Use a good fertilizer (this is a must!)"
+            ],
+            "comments": [
+                {
+                    "authorName": "Bryan Powell",
+                    "text": "I agree with you! I also grew a strawberry and it was good because we used a lot of fertilizer. Also make sure you use a good soil and keep pests away."
+                }
+            ]
+        }
+    },
+    {
+        "authorName": "Justin Ellis",
+        "plant": "onion",
+        "experienceLevel": "Intermediate",
+        "difficultyLevel": "Hard",
+        "text": "My experience with growing onions is ...",
+        "details": {
+            "story": "I grew onions in my yard but it was not so good. We have to water it every day and it takes a long time to grow. I harvested it after 3 months and it was not tasty at all. We suspect it has to do with the fact that we forgot to use do pest control. We will consider trying again next year.",
+            "tips": [
+                "Water it regularly and often",
+                "Use a good soil",
+                "Use a good fertilizer",
+                "Do pest control (this is a must!)"
+            ],
+            "comments": [
+                {
+                    "authorName": "Joseph Smith",
+                    "text": "I agree with you! I also grew onions and it was good because we used a lot of fertilizer. Also make sure you use a good soil and keep pests away."
+                },
+                {
+                    "authorName": "Peter Stevens",
+                    "text": "i've never grown onions before, but I'm motivated by your story. I will try it out next year!"
+                }
+            ]
+        }
+    },
+    {
+        "authorName": "Jane Doe",
+        "plant": "wheat",
+        "experienceLevel": "Beginner",
+        "difficultyLevel": "Medium",
+        "text": "My experience with growing some wheat is ...",
+        "details": {
+            "story": "I grew some wheat in my yard but it was super hard. I had to water it twice a day and it took 3 months to grow. I harvested it after 3 months and have to grind it to get flour to make it useable. I will definitely not grow another group of them next year.",
+            "tips": [
+                "Water it regularly and often",
+                "Give it a lot of sunlight",
+                "Use a good fertilizer"
+            ],
+            "comments": [
+                {
+                    "authorName": "John Doe",
+                    "text": "Wow, this is amazing, I can't believe you grew wheat in your yard. I will definitely try it out next year."
+                },
+                {
+                    "authorName": "Josh Doe",
+                    "text": "I also grew some wheat and it was very hard. Don't try it unless you are confident in your gardening skills."
+                }
+            ]
+        }
+    },
+    {
+        "authorName": "Josh Doe",
+        "plant": "potato",
+        "experienceLevel": "Hard",
+        "difficultyLevel": "Hard",
+        "text": "My experience with growing a potato is ...",
+        "details": {
+            "story": "I grew a potato in my yard but it was easy, I just have to water it and it grew very fast. I harvested it after 2 months and it was very tasty. I will definitely grow another batch next year.",
+            "tips": [
+                "Water it regularly and often",
+                "Use a good soil",
+                "Use a good fertilizer (this is a must!)"
+            ],
+            "comments": [
+                {
+                    "authorName": "John Doe",
+                    "text": "I didn't grow them well last time, probably because I didn't use a good fertilizer. I will try again next year."
+                },
+                {
+                    "authorName": "Jane Doe",
+                    "text": "I agree with John, I also didn't grow them well last time, probably because I didn't use a good fertilizer. I will see if I want to try again with them next year."
+                }
+            ]
+        }
+    },
+    {
+        "authorName": "John Doe",
+        "plant": "tomato",
+        "experienceLevel": "Intermediate",
+        "difficultyLevel": "Easy",
+        "text": "My experience with growing a tomato is ...",
+        "details": {
+            "story": "I grew a tomato in my garden and it was very easy. I just had to water it and it grew very fast. I harvested it after 2 months and it was very tasty. I will definitely grow another one next year.",
+            "tips": [
+                "Water it regularly",
+                "Use a good soil",
+                "Use a good fertilizer"
+            ],
+            "comments": [
+                {
+                    "authorName": "Jane Doe",
+                    "text": "I agree with you. I also grew a tomato and it was very easy. I will grow another one next year."
+                },
+                {
+                    "authorName": "Josh Doe",
+                    "text": "I also grew a tomato and it was very easy, but I won't be growing it again because I want to try out something new."
+                }
+            ]
+        }
+    }
+]

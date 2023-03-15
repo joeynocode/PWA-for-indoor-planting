@@ -1,6 +1,6 @@
 # Banana Inc Final Project
 
-INFO 5440 Final Project by Banana Inc.
+As a team of five graduate students, we will redesign and rebuild a fully-responsive progressive web app for the Vegetable Varieties for Gardeners with Vue.js and Bootstrap. The project will be a full-life cycle user-centered design, including ideation, user research, prototyping, designing, programming and testing.
 
 ## Recommended IDE Setup
 

@@ -1,0 +1,23 @@
+[
+    {
+        "authorName": "John Doe",
+        "plant": "tomato",
+        "experienceLevel": "Intermediate",
+        "difficultyLevel": "Easy",
+        "text": "My experience with growing a tomato is ..."
+    },
+    {
+        "authorName": "Jane Doe",
+        "plant": "wheat",
+        "experienceLevel": "Beginner",
+        "difficultyLevel": "Medium",
+        "text": "My experience with growing some wheat is ..."
+    },
+    {
+        "authorName": "Josh Doe",
+        "plant": "potato",
+        "experienceLevel": "Hard",
+        "difficultyLevel": "Hard",
+        "text": "My experience with growing a potato is ..."
+    }
+]

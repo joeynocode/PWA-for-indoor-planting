@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-#This app was developed using the following technologies:
+# This app was developed using the following technologies:
 
 React.js
 Redux

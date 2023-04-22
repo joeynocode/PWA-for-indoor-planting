@@ -1,8 +1,8 @@
 # Indoor planting project
 
-This app aims to help people who are interested in indoor planting to keep track of their plants, watering schedules, and general care.
+Redesign and rebuild a fully-responsive progressive web app for the Vegetable Varieties for Gardeners with Vue.js and Bootstrap. The project will be a full-life cycle user-centered design, including ideation, user research, prototyping, designing, programming and testing.
 
-As a team of five graduate students, we will redesign and rebuild a fully-responsive progressive web app for the Vegetable Varieties for Gardeners with Vue.js and Bootstrap. The project will be a full-life cycle user-centered design, including ideation, user research, prototyping, designing, programming and testing.
+This app aims to help people who are interested in indoor planting to keep track of their plants, watering schedules, and general care.
 
 # Features
 Add new plants and their details such as watering frequency, sunlight needs, etc.
